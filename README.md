@@ -1,2 +1,2 @@
 # learning_python
-python基礎学習用。ついでにDockerコンテナを扱う練習
+python基礎学習用
